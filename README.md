@@ -1,18 +1,23 @@
-# C++ Programming Portfolio (CS Fundamentals)
+# CPP-Core-Implementations
 
 ## Overview
-This repository contains a collection of C++ projects demonstrating core Computer Science concepts, including **Data Structures**, **Algorithms**, **Object-Oriented Programming (OOP)**, and **File Handling**.
+This repository serves as a portfolio of core Computer Science implementations using **C++**. It demonstrates a strong grasp of **Data Structures**, **Algorithms**, **Object-Oriented Programming (OOP)**, and **System Modeling** through practical coding projects.
 
-## Project List
+---
 
-| File Name | Category | Description |
+## 📂 Project Catalog
+
+| File Name | Concept | Description |
 | :--- | :--- | :--- |
-| **`Student-Management-System.cpp`** | File Handling & OOP | A complete CRUD system to manage student records (Add, Update, Delete, Search) using `Vectors` and storing data in external text files. |
-| **`Decision-Stack-LinkedList.cpp`** | Data Structures | Implementation of a **Stack** using a **Linked List** to track and manage a history of decisions (Last-In-First-Out). |
-| **`Pi-MonteCarlo-Simulation.cpp`** | Algorithms & Math | An algorithmic simulation to estimate the value of **PI** using the **Monte Carlo** method and random sampling. |
-| **`Loan-Payment-Calculator.cpp`** | Math & Functions | A financial tool that calculates monthly loan payments and total interest using mathematical formulas and function overloading. |
-| **`Coin-Flip-Probability.cpp`** | Simulation | A program that simulates coin flips to demonstrate probability concepts and random number generation in C++. |
+| **`Student-Management-System.cpp`** | **File Handling & OOP** | A full CRUD system for managing student records. It utilizes `vectors` for dynamic storage and `fstream` for persisting data in external text files. |
+| **`Decision-Stack-LinkedList.cpp`** | **Data Structures** | A custom implementation of a **Stack** using a **Linked List** to manage a decision history log (LIFO principle), demonstrating manual memory management. |
+| **`Pi-MonteCarlo-Simulation.cpp`** | **Algorithms** | An algorithmic simulation estimating the value of **PI** using the **Monte Carlo method**, showcasing mathematical modeling and random sampling in C++. |
+| **`Loan-Payment-Calculator.cpp`** | **Math & Logic** | A financial tool calculating monthly payments and interest using complex mathematical formulas and modular function design. |
+| **`Coin-Flip-Probability.cpp`** | **Simulation** | A statistical simulation of coin flips to demonstrate probability theory and random number generation logic. |
 
-## Tools Used
-- **Language:** C++
-- **IDE:** Code::Blocks
+---
+
+## 🛠️ Tech Stack
+- **Language:** C++ (Standard 11/14)
+- **Environment:** Code::Blocks / GCC Compiler
+- **Focus:** Performance, Memory Management, and Algorithmic Logic.
