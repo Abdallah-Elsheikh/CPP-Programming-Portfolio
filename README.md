@@ -19,5 +19,4 @@ This repository serves as a portfolio of core **Computer Science** implementatio
 * **Focus:** Performance, Memory Management, and Algorithmic Logic
 * **Environment:** GCC Compiler / Code::Blocks
 
-## 👨‍💻 Author
-**Abdallah Salah ELsheikh** - Computer Science Student
+
